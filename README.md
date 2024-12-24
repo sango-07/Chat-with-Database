@@ -17,7 +17,7 @@ A **Streamlit-based chatbot application** that connects to a database, enabling 
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Chat-with-Database.git
+   git clone https://github.com/sango-07/Chat-with-Database.git
    cd Chat-with-Database
    ```
 2. Install dependencies:
